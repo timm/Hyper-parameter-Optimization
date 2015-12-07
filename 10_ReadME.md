@@ -1,6 +1,6 @@
 Small:
 
-gens = 439
+gens = 439    
 era = 101
 retain = 0.448216867388
 mutate_prob = 0.592566321828
